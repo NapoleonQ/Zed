@@ -1,0 +1,21 @@
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Configuración privada del editor de código
+.vscode/
+.zed/
+
+# Carpetas de dependencias y librerías
+node_modules/
+venv/
+__pycache__/
+
+# Archivos con claves secretas o contraseñas
+.env
+
+# Compilados o temporales
+*.log
+*.tmp
+dist/
+build/
