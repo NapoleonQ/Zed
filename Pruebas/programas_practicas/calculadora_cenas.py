@@ -1,9 +1,3 @@
-# Enunciado: Un grupo de amigos va a cenar. Escribe un programa que calcule cuánto debe pagar cada persona.
-#Define el costo total de la comida (por ejemplo, $85.00).
-#Añade un 15% de propina sobre el costo total.
-#Divide el total final (comida + propina) entre 4 personas.
-#Resultado esperado: El costo por persona.
-
 print("==Calculador de Cena==")
 print()
 costo_total = float(input("Ingrese el costo total de la Cena: "))
