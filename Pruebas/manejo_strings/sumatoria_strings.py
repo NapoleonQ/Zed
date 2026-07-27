@@ -1,4 +1,4 @@
-# Prueba con Strigs en Zed 4
+# Este codigo es deficiente, no tomar en cuenta
 # Sumatorio con Ciclos
 
 print("== Sumatoria ==")

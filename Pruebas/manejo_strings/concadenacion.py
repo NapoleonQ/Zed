@@ -1,4 +1,3 @@
-# Pruebas con String en Zed 2
 # Prueba 2: Concadenacion
 print("== Maquina Sumatoria ==")
 print()

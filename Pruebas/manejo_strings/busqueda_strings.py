@@ -1,4 +1,3 @@
-# Prueba con Strings en Zed 3
 # Prueba 3: Busqueda
 
 mensj = "Buenas tardes, Bienvenido a este Programa Senor/a"
