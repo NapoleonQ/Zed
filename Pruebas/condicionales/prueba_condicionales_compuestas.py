@@ -9,6 +9,8 @@ promedio = (nota1 + nota2 + nota3) // 3
 
 if promedio >= 6:
     print(f"Felicidades {alumno}, has aprobado con: {promedio}")
+else:
+    print(f"Lo siento {alumno}, has reprobado con: {promedio}")
 
 print()
 print("Fin.")
